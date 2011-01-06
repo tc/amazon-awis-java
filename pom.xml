@@ -2,10 +2,10 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
  <groupId>amazon</groupId>
- <artifactId>amazon-awis-java</artifactId>
+ <artifactId>awis</artifactId>
  <packaging>jar</packaging>
  <version>1.0</version>
- <name>amazon-awis-java</name>
+ <name>awis</name>
  
  <properties>
  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
