@@ -16,13 +16,14 @@ public class AwisTest{
     assertEquals(expected, awisUrl);
   }
 
-  @Test
+  //@Test
+  // you can test by uncommenting //@Test and adding your access/secret key
   public void testGet() throws Exception{
     String accessKey = "";
     String secretKey = "";
     String siteUrl = "http://foursquare.com";
     String output = Awis.get(accessKey,secretKey,siteUrl);
     
-    assert(output == null);
+    assert(output != null);
   }
 }
