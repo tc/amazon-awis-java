@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<aws:UrlInfoResponse xmlns:aws="http://alexa.amazonaws.com/doc/2005-10-05/">
+<aws:Response xmlns:aws="http://awis.amazonaws.com/doc/2005-07-11">
+<aws:OperationRequest>
+<aws:RequestId>7cb4ebc3-ac16-e383-fcb2-d8aa603ec7b8</aws:RequestId>
+</aws:OperationRequest>
+<aws:UrlInfoResult>
+<aws:Alexa>
+  
+  <aws:ContentData>
+    <aws:DataUrl type="canonical">foursquare.com</aws:DataUrl>
+    <aws:LinksInCount>5631</aws:LinksInCount>
+  </aws:ContentData>
+  <aws:TrafficData>
+    <aws:DataUrl type="canonical">foursquare.com</aws:DataUrl>
+    <aws:Rank>626</aws:Rank>
+    <aws:UsageStatistics>
+      <aws:UsageStatistic>
+        <aws:TimeRange>
+          <aws:Months>3</aws:Months>
+        </aws:TimeRange>
+        <aws:Rank>
+          <aws:Value>626</aws:Value>
+          <aws:Delta>+77</aws:Delta>
+        </aws:Rank>
+        <aws:Reach>
+          <aws:Rank>
+            <aws:Value>627</aws:Value>
+            <aws:Delta>+74</aws:Delta>
+          </aws:Rank>
+          <aws:PerMillion>
+            <aws:Value>1,900</aws:Value>
+            <aws:Delta>-4.2%</aws:Delta>
+          </aws:PerMillion>
+        </aws:Reach>
+        <aws:PageViews>
+          <aws:PerMillion>
+            <aws:Value>74.5</aws:Value>
+            <aws:Delta>-8.3%</aws:Delta>
+          </aws:PerMillion>
+          <aws:Rank>
+            <aws:Value>805</aws:Value>
+            <aws:Delta>79</aws:Delta>
+          </aws:Rank>
+          <aws:PerUser>
+            <aws:Value>4.03</aws:Value>
+            <aws:Delta>-4.3%</aws:Delta>
+          </aws:PerUser>
+        </aws:PageViews>
+      </aws:UsageStatistic>
+      <aws:UsageStatistic>
+        <aws:TimeRange>
+          <aws:Months>1</aws:Months>
+        </aws:TimeRange>
+        <aws:Rank>
+          <aws:Value>1166</aws:Value>
+          <aws:Delta>+648</aws:Delta>
+        </aws:Rank>
+        <aws:Reach>
+          <aws:Rank>
+            <aws:Value>1186</aws:Value>
+            <aws:Delta>+667</aws:Delta>
+          </aws:Rank>
+          <aws:PerMillion>
+            <aws:Value>1,115</aws:Value>
+            <aws:Delta>-50.5%</aws:Delta>
+          </aws:PerMillion>
+        </aws:Reach>
+        <aws:PageViews>
+          <aws:PerMillion>
+            <aws:Value>43.5</aws:Value>
+            <aws:Delta>-53.4%</aws:Delta>
+          </aws:PerMillion>
+          <aws:Rank>
+            <aws:Value>1456</aws:Value>
+            <aws:Delta>798</aws:Delta>
+          </aws:Rank>
+          <aws:PerUser>
+            <aws:Value>4</aws:Value>
+            <aws:Delta>-5.7%</aws:Delta>
+          </aws:PerUser>
+        </aws:PageViews>
+      </aws:UsageStatistic>
+      <aws:UsageStatistic>
+        <aws:TimeRange>
+          <aws:Days>7</aws:Days>
+        </aws:TimeRange>
+        <aws:Rank>
+          <aws:Value>1176</aws:Value>
+          <aws:Delta>+80</aws:Delta>
+        </aws:Rank>
+        <aws:Reach>
+          <aws:Rank>
+            <aws:Value>1204</aws:Value>
+            <aws:Delta>+109</aws:Delta>
+          </aws:Rank>
+          <aws:PerMillion>
+            <aws:Value>1,100</aws:Value>
+            <aws:Delta>-5%</aws:Delta>
+          </aws:PerMillion>
+        </aws:Reach>
+        <aws:PageViews>
+          <aws:PerMillion>
+            <aws:Value>42.2</aws:Value>
+            <aws:Delta>-7%</aws:Delta>
+          </aws:PerMillion>
+          <aws:Rank>
+            <aws:Value>1551</aws:Value>
+            <aws:Delta>163</aws:Delta>
+          </aws:Rank>
+          <aws:PerUser>
+            <aws:Value>3.92</aws:Value>
+            <aws:Delta>-2%</aws:Delta>
+          </aws:PerUser>
+        </aws:PageViews>
+      </aws:UsageStatistic>
+      <aws:UsageStatistic>
+        <aws:TimeRange>
+          <aws:Days>1</aws:Days>
+        </aws:TimeRange>
+        <aws:Rank>
+          <aws:Value>901</aws:Value>
+          <aws:Delta>-431</aws:Delta>
+        </aws:Rank>
+        <aws:Reach>
+          <aws:Rank>
+            <aws:Value>911</aws:Value>
+            <aws:Delta>-471</aws:Delta>
+          </aws:Rank>
+          <aws:PerMillion>
+            <aws:Value>1,440</aws:Value>
+            <aws:Delta>+46%</aws:Delta>
+          </aws:PerMillion>
+        </aws:Reach>
+        <aws:PageViews>
+          <aws:PerMillion>
+            <aws:Value>53.7</aws:Value>
+            <aws:Delta>+44%</aws:Delta>
+          </aws:PerMillion>
+          <aws:Rank>
+            <aws:Value>1173</aws:Value>
+            <aws:Delta>-560</aws:Delta>
+          </aws:Rank>
+          <aws:PerUser>
+            <aws:Value>4.1</aws:Value>
+            <aws:Delta>-1%</aws:Delta>
+          </aws:PerUser>
+        </aws:PageViews>
+      </aws:UsageStatistic>
+    </aws:UsageStatistics>
+    <aws:ContributingSubdomains/>
+  </aws:TrafficData>
+</aws:Alexa>
+</aws:UrlInfoResult>
+<aws:ResponseStatus xmlns:aws="http://alexa.amazonaws.com/doc/2005-10-05/">
+<aws:StatusCode>Success</aws:StatusCode>
+</aws:ResponseStatus>
+</aws:Response>
+</aws:UrlInfoResponse>
+
